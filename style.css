@@ -1,0 +1,18 @@
+.resizable_frame {
+    background:
+        url(image/image_part_001.png) 		left 	top 	no-repeat,
+        url(image/image_part_003.png) 		right 	top 	no-repeat,
+        url(image/image_part_007.png) 	left 	bottom 	no-repeat,
+        url(image/image_part_009.png) 	right 	bottom 	no-repeat,
+
+    
+        url(image/image_part_002.png) 	top 	repeat-x,
+        url(image/image_part_004.png) 	left 	repeat-y,
+        url(image/image_part_006.png) 	right 	repeat-y,
+        url(image/image_part_008.png) bottom 	repeat-x;
+    }
+
+    
+
+
+
